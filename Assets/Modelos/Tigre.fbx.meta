@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: cb7efcb4a2923ef438e5161700dc591f
+timeCreated: 1439400721
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: Base_OrejaDer
+    100004: BaseOrejaIzq
+    100006: Cabeza
+    100008: Cadera
+    100010: cluster1Handle
+    100012: cluster2Handle
+    100014: cluster3Handle
+    100016: cluster4Handle
+    100018: cluster5Handle
+    100020: Cola01
+    100022: Cola02
+    100024: Cola03
+    100026: Cola04
+    100028: Cola05
+    100030: Cola06
+    100032: Cola07
+    100034: Cola08
+    100036: controller1
+    100038: controller1 1
+    100040: controller1 2
+    100042: controller10
+    100044: controller11
+    100046: controller12
+    100048: controller13
+    100050: controller2
+    100052: controller3
+    100054: controller4
+    100056: controller5
+    100058: controller6
+    100060: controller7
+    100062: controller8
+    100064: controller9
+    100066: Costillas
+    100068: cpsMirrorAxis1
+    100070: cpsMirrorAxis2
+    100072: cpsMirrorAxis3
+    100074: cpsMirrorAxis4
+    100076: cpsMirrorAxis5
+    100078: cpsMirrorAxis6
+    100080: cpsMirrorAxis7
+    100082: cpsMirrorAxis8
+    100084: Cuello01
+    100086: Cuello02
+    100088: Cuello03
+    100090: curve1
+    100092: Espalda
+    100094: group
+    100096: group1
+    100098: group2
+    100100: helperVision
+    100102: helperVisionL
+    100104: helperVisionR
+    100106: ikHandle1
+    100108: ikHandle10
+    100110: ikHandle11
+    100112: ikHandle12
+    100114: ikHandle13
+    100116: ikHandle2
+    100118: ikHandle3
+    100120: ikHandle4
+    100122: ikHandle5
+    100124: ikHandle6
+    100126: ikHandle7
+    100128: ikHandle8
+    100130: ikHandle9
+    100132: joint12
+    100134: joint16
+    100136: joint20
+    100138: joint25
+    100140: joint37
+    100142: joint42
+    100144: joint45
+    100146: OrejaDer
+    100148: OrejaIzq
+    100150: Panza
+    100152: pasted__polySurface10CPSproxy1
+    100154: pasted__polySurface10CPSproxy1CPSproxy1
+    100156: pasted__polySurface10CPSproxy1CPSproxy1CPSproxy1
+    100158: PataDerDel
+    100160: PataIzqDel
+    100162: PataIzqTraz
+    100164: pCone1CPSproxy1
+    100166: pCone1CPSproxy2
+    100168: pCube1
+    100170: pCube1CPSproxy1
+    100172: pCube2
+    100174: pCube2CPSproxy1
+    100176: pCube2CPSproxy1CPSproxy1
+    100178: pCube2CPSproxy1CPSunite1
+    100180: pCube3
+    100182: pCube3CPSproxy2
+    100184: pCube4
+    100186: pCube4CPSproxy1
+    100188: pCube5CPSproxy1
+    100190: Pecho
+    100192: PiernaDerTraz
+    100194: PlantaDerDel
+    100196: PlantaDerTraz
+    100198: PlantaIzqDel
+    100200: PlantaIzqTraz
+    100202: polySurface10
+    100204: pPlane1
+    100206: pSphere1
+    100208: pSphere2
+    100210: Quijada
+    100212: RodDerDel
+    100214: RodillaDerTraz
+    100216: RodIzqDel
+    100218: RodIzqTraz
+    100220: Root
+    100222: spotLight1
+    100224: spotLight2
+    100226: spotLight3
+    100228: TalonDerTraz
+    100230: TalonIzqTraz
+    100232: //RootNode
+    100234: TopCabeza
+    100236: transform1
+    100238: transform2
+    400000: ambientLight1
+    400002: Base_OrejaDer
+    400004: BaseOrejaIzq
+    400006: Cabeza
+    400008: Cadera
+    400010: cluster1Handle
+    400012: cluster2Handle
+    400014: cluster3Handle
+    400016: cluster4Handle
+    400018: cluster5Handle
+    400020: Cola01
+    400022: Cola02
+    400024: Cola03
+    400026: Cola04
+    400028: Cola05
+    400030: Cola06
+    400032: Cola07
+    400034: Cola08
+    400036: controller1
+    400038: controller1 1
+    400040: controller1 2
+    400042: controller10
+    400044: controller11
+    400046: controller12
+    400048: controller13
+    400050: controller2
+    400052: controller3
+    400054: controller4
+    400056: controller5
+    400058: controller6
+    400060: controller7
+    400062: controller8
+    400064: controller9
+    400066: Costillas
+    400068: cpsMirrorAxis1
+    400070: cpsMirrorAxis2
+    400072: cpsMirrorAxis3
+    400074: cpsMirrorAxis4
+    400076: cpsMirrorAxis5
+    400078: cpsMirrorAxis6
+    400080: cpsMirrorAxis7
+    400082: cpsMirrorAxis8
+    400084: Cuello01
+    400086: Cuello02
+    400088: Cuello03
+    400090: curve1
+    400092: Espalda
+    400094: group
+    400096: group1
+    400098: group2
+    400100: helperVision
+    400102: helperVisionL
+    400104: helperVisionR
+    400106: ikHandle1
+    400108: ikHandle10
+    400110: ikHandle11
+    400112: ikHandle12
+    400114: ikHandle13
+    400116: ikHandle2
+    400118: ikHandle3
+    400120: ikHandle4
+    400122: ikHandle5
+    400124: ikHandle6
+    400126: ikHandle7
+    400128: ikHandle8
+    400130: ikHandle9
+    400132: joint12
+    400134: joint16
+    400136: joint20
+    400138: joint25
+    400140: joint37
+    400142: joint42
+    400144: joint45
+    400146: OrejaDer
+    400148: OrejaIzq
+    400150: Panza
+    400152: pasted__polySurface10CPSproxy1
+    400154: pasted__polySurface10CPSproxy1CPSproxy1
+    400156: pasted__polySurface10CPSproxy1CPSproxy1CPSproxy1
+    400158: PataDerDel
+    400160: PataIzqDel
+    400162: PataIzqTraz
+    400164: pCone1CPSproxy1
+    400166: pCone1CPSproxy2
+    400168: pCube1
+    400170: pCube1CPSproxy1
+    400172: pCube2
+    400174: pCube2CPSproxy1
+    400176: pCube2CPSproxy1CPSproxy1
+    400178: pCube2CPSproxy1CPSunite1
+    400180: pCube3
+    400182: pCube3CPSproxy2
+    400184: pCube4
+    400186: pCube4CPSproxy1
+    400188: pCube5CPSproxy1
+    400190: Pecho
+    400192: PiernaDerTraz
+    400194: PlantaDerDel
+    400196: PlantaDerTraz
+    400198: PlantaIzqDel
+    400200: PlantaIzqTraz
+    400202: polySurface10
+    400204: pPlane1
+    400206: pSphere1
+    400208: pSphere2
+    400210: Quijada
+    400212: RodDerDel
+    400214: RodillaDerTraz
+    400216: RodIzqDel
+    400218: RodIzqTraz
+    400220: Root
+    400222: spotLight1
+    400224: spotLight2
+    400226: spotLight3
+    400228: TalonDerTraz
+    400230: TalonIzqTraz
+    400232: //RootNode
+    400234: TopCabeza
+    400236: transform1
+    400238: transform2
+    2300000: pCone1CPSproxy1
+    2300002: pCone1CPSproxy2
+    2300004: pCube2CPSproxy1
+    2300006: pCube2CPSproxy1CPSproxy1
+    2300008: pCube2CPSproxy1CPSunite1
+    2300010: pCube3CPSproxy2
+    2300012: pCube4CPSproxy1
+    2300014: pCube5CPSproxy1
+    2300016: polySurface10
+    2300018: pPlane1
+    2300020: pSphere1
+    2300022: pSphere2
+    3300000: pCone1CPSproxy1
+    3300002: pCone1CPSproxy2
+    3300004: pCube2CPSproxy1
+    3300006: pCube2CPSproxy1CPSproxy1
+    3300008: pCube2CPSproxy1CPSunite1
+    3300010: pCube3CPSproxy2
+    3300012: pCube4CPSproxy1
+    3300014: pCube5CPSproxy1
+    3300016: polySurface10
+    3300018: pPlane1
+    3300020: pSphere1
+    3300022: pSphere2
+    4300000: pCube1CPSproxy1
+    4300002: pCube2CPSproxy1CPSunite1
+    4300004: pCube2CPSproxy1CPSproxy1
+    4300006: pPlane1
+    4300008: pCube3CPSproxy2
+    4300010: polySurface10
+    4300012: pasted__polySurface10CPSproxy1CPSproxy1CPSproxy1
+    4300014: pCone1CPSproxy2
+    4300016: pCube5CPSproxy1
+    4300018: pCube4CPSproxy1
+    4300020: pSphere2
+    4300022: pSphere1
+    4300024: pCone1CPSproxy1
+    4300026: pCube2CPSproxy1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pasted__polySurface10CPSproxy1CPSproxy1CPSproxy1
+    13700002: pCube1CPSproxy1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 15.25
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ambientLight1
+        weight: 1
+      - path: cluster1Handle
+        weight: 1
+      - path: controller10
+        weight: 1
+      - path: controller10/controller1
+        weight: 1
+      - path: controller10/controller1/controller1 1
+        weight: 1
+      - path: controller10/controller1/controller9
+        weight: 1
+      - path: controller10/controller1/controller9/controller3
+        weight: 1
+      - path: controller10/controller1/controller9/controller3/controller1 2
+        weight: 1
+      - path: controller10/controller1/controller9/controller3/controller2
+        weight: 1
+      - path: controller10/controller1/controller9/controller3/controller4
+        weight: 1
+      - path: controller10/controller1/controller9/controller3/helperVision
+        weight: 1
+      - path: controller10/controller1/controller9/controller3/helperVision/helperVisionL
+        weight: 1
+      - path: controller10/controller1/controller9/controller3/helperVision/helperVisionR
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/pCone1CPSproxy1
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/pCube2CPSproxy1
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/pCube4CPSproxy1
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/pSphere1
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/pSphere2
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/Quijada
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/Quijada/joint12
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/Quijada/pCone1CPSproxy2
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/Quijada/pCube5CPSproxy1
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/TopCabeza
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/TopCabeza/Base_OrejaDer
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/TopCabeza/Base_OrejaDer/OrejaDer
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/TopCabeza/Base_OrejaDer/OrejaDer/joint45
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/TopCabeza/BaseOrejaIzq
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/TopCabeza/BaseOrejaIzq/OrejaIzq
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/Cuello01/Cuello02/Cuello03/Cabeza/TopCabeza/BaseOrejaIzq/OrejaIzq/joint16
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataDerDel
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataDerDel/RodDerDel
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataDerDel/RodDerDel/PlantaDerDel
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataDerDel/RodDerDel/PlantaDerDel/joint37
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataIzqDel
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataIzqDel/RodIzqDel
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataIzqDel/RodIzqDel/PlantaIzqDel
+        weight: 1
+      - path: controller10/controller1/controller9/Espalda/PataIzqDel/RodIzqDel/PlantaIzqDel/joint20
+        weight: 1
+      - path: controller10/controller1/controller11
+        weight: 1
+      - path: controller10/controller1/controller12
+        weight: 1
+      - path: controller10/controller1/controller13
+        weight: 1
+      - path: controller10/controller1/Root
+        weight: 1
+      - path: controller10/controller1/Root/Cadera
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/Cola02
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/Cola02/Cola03
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/Cola02/Cola03/Cola04
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/Cola02/Cola03/Cola04/Cola05
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/Cola02/Cola03/Cola04/Cola05/Cola06
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/Cola02/Cola03/Cola04/Cola05/Cola06/Cola07
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/Cola02/Cola03/Cola04/Cola05/Cola06/Cola07/Cola08
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Cola01/curve1
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Panza
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Panza/Costillas
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/Panza/Costillas/Pecho
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PataIzqTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PataIzqTraz/RodIzqTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PataIzqTraz/RodIzqTraz/TalonIzqTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PataIzqTraz/RodIzqTraz/TalonIzqTraz/PlantaIzqTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PataIzqTraz/RodIzqTraz/TalonIzqTraz/PlantaIzqTraz/joint25
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PiernaDerTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PiernaDerTraz/RodillaDerTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PiernaDerTraz/RodillaDerTraz/TalonDerTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PiernaDerTraz/RodillaDerTraz/TalonDerTraz/PlantaDerTraz
+        weight: 1
+      - path: controller10/controller1/Root/Cadera/PiernaDerTraz/RodillaDerTraz/TalonDerTraz/PlantaDerTraz/joint42
+        weight: 1
+      - path: controller10/controller1/Root/group2
+        weight: 1
+      - path: controller10/controller1/Root/group2/cluster2Handle
+        weight: 1
+      - path: controller10/controller1/Root/group2/cluster3Handle
+        weight: 1
+      - path: controller10/controller1/Root/group2/cluster4Handle
+        weight: 1
+      - path: controller10/controller1/Root/group2/cluster5Handle
+        weight: 1
+      - path: controller10/controller5
+        weight: 1
+      - path: controller10/controller5/ikHandle3
+        weight: 1
+      - path: controller10/controller5/ikHandle4
+        weight: 1
+      - path: controller10/controller6
+        weight: 1
+      - path: controller10/controller6/ikHandle5
+        weight: 1
+      - path: controller10/controller6/ikHandle6
+        weight: 1
+      - path: controller10/controller7
+        weight: 1
+      - path: controller10/controller7/ikHandle10
+        weight: 1
+      - path: controller10/controller7/ikHandle11
+        weight: 1
+      - path: controller10/controller7/ikHandle12
+        weight: 1
+      - path: controller10/controller8
+        weight: 1
+      - path: controller10/controller8/ikHandle7
+        weight: 1
+      - path: controller10/controller8/ikHandle8
+        weight: 1
+      - path: controller10/controller8/ikHandle9
+        weight: 1
+      - path: cpsMirrorAxis1
+        weight: 1
+      - path: cpsMirrorAxis2
+        weight: 1
+      - path: cpsMirrorAxis3
+        weight: 1
+      - path: cpsMirrorAxis4
+        weight: 1
+      - path: cpsMirrorAxis5
+        weight: 1
+      - path: cpsMirrorAxis6
+        weight: 1
+      - path: cpsMirrorAxis7
+        weight: 1
+      - path: cpsMirrorAxis8
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__polySurface10CPSproxy1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle13
+        weight: 1
+      - path: pasted__polySurface10CPSproxy1CPSproxy1
+        weight: 1
+      - path: pasted__polySurface10CPSproxy1CPSproxy1CPSproxy1
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1CPSproxy1
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2CPSproxy1CPSproxy1
+        weight: 1
+      - path: pCube2CPSproxy1CPSunite1
+        weight: 1
+      - path: pCube3
+        weight: 1
+      - path: pCube3CPSproxy2
+        weight: 1
+      - path: pCube4
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      - path: spotLight1
+        weight: 1
+      - path: spotLight2
+        weight: 1
+      - path: spotLight3
+        weight: 1
+      - path: transform1
+        weight: 1
+      - path: transform2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

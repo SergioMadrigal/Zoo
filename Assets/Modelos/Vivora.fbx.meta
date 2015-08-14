@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 4d9aca7ec998d444e99d78d4335775bb
+timeCreated: 1439516822
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cabeza
+    100002: Cascabel
+    100004: cpsMirrorAxis1
+    100006: Cuello
+    100008: group1
+    100010: group2
+    100012: group3
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint17
+    100026: joint18
+    100028: joint19
+    100030: joint2
+    100032: joint20
+    100034: joint22
+    100036: joint23
+    100038: joint24
+    100040: joint25
+    100042: joint26
+    100044: joint3
+    100046: joint4
+    100048: joint5
+    100050: joint6
+    100052: joint7
+    100054: joint8
+    100056: pCube1
+    100058: polySurface1
+    100060: pSphere1
+    100062: pSphere2
+    100064: pTorus1
+    100066: pTorus2
+    100068: pTorus3
+    100070: pTorus4
+    100072: Quijada
+    100074: Root
+    100076: spotLight1
+    100078: spotLight2
+    100080: spotLight3
+    100082: //RootNode
+    400000: Cabeza
+    400002: Cascabel
+    400004: cpsMirrorAxis1
+    400006: Cuello
+    400008: group1
+    400010: group2
+    400012: group3
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint17
+    400026: joint18
+    400028: joint19
+    400030: joint2
+    400032: joint20
+    400034: joint22
+    400036: joint23
+    400038: joint24
+    400040: joint25
+    400042: joint26
+    400044: joint3
+    400046: joint4
+    400048: joint5
+    400050: joint6
+    400052: joint7
+    400054: joint8
+    400056: pCube1
+    400058: polySurface1
+    400060: pSphere1
+    400062: pSphere2
+    400064: pTorus1
+    400066: pTorus2
+    400068: pTorus3
+    400070: pTorus4
+    400072: Quijada
+    400074: Root
+    400076: spotLight1
+    400078: spotLight2
+    400080: spotLight3
+    400082: //RootNode
+    2300000: pCube1
+    2300002: pSphere1
+    2300004: pSphere2
+    2300006: pTorus1
+    2300008: pTorus2
+    2300010: pTorus3
+    2300012: pTorus4
+    3300000: pCube1
+    3300002: pSphere1
+    3300004: pSphere2
+    3300006: pTorus1
+    3300008: pTorus2
+    3300010: pTorus3
+    3300012: pTorus4
+    4300000: polySurface1
+    4300002: pTorus4
+    4300004: pTorus2
+    4300006: pTorus3
+    4300008: pTorus1
+    4300010: pCube1
+    4300012: pSphere2
+    4300014: pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cpsMirrorAxis1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group3
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/joint13
+        weight: 1
+      - path: Root/joint13/joint14
+        weight: 1
+      - path: Root/joint13/joint14/joint15
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/Cascabel
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/Cascabel/joint22
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/Cascabel/joint22/joint23
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/Cascabel/pTorus1
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/Cascabel/pTorus2
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/Cascabel/pTorus3
+        weight: 1
+      - path: Root/joint13/joint14/joint15/joint16/joint17/joint18/joint19/joint20/Cascabel/pTorus4
+        weight: 1
+      - path: Root/joint26
+        weight: 1
+      - path: Root/joint26/joint25
+        weight: 1
+      - path: Root/joint26/joint25/joint2
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8/Cuello
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8/Cuello/Cabeza
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8/Cuello/Cabeza/Quijada
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8/Cuello/Cabeza/Quijada/joint12
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8/Cuello/Cabeza/Quijada/pCube1
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8/Cuello/pSphere1
+        weight: 1
+      - path: Root/joint26/joint25/joint2/joint3/joint4/joint5/joint24/joint6/joint7/joint8/Cuello/pSphere2
+        weight: 1
+      - path: spotLight1
+        weight: 1
+      - path: spotLight2
+        weight: 1
+      - path: spotLight3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

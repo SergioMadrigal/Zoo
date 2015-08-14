@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="logo_RA_normal" size="50000.000000 50095.058594" />
+    <ImageTarget name="TucanTracker" size="25000.000000 23557.691406" />
+    <ImageTarget name="TigreTracker" size="25000.000000 24279.539062" />
+    <ImageTarget name="SerpienteTracker" size="25000.000000 20464.853516" />
+    <ImageTarget name="mirinda_logo" size="50000.000000 50000.000000" />
+  </Tracking>
+</QCARConfig>
